@@ -17,7 +17,7 @@
 
 
 body{
-    
+    font-size: 1.2em;
 }
 
 @media (min-width: 768px) {
@@ -65,6 +65,13 @@ body{
   max-width: 90%; /* Limit the width of the image */
   padding: 10px; /* Add white margin around the image */
   box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.4); /* Add shadow to the margin */
+}
+
+.content-publications{
+  background-color: #dadada;
+  margin: 0 auto; /* Center the image horizontally */
+  max-width: 95%; 
+  
 }
 
 .galleryPhoto{
