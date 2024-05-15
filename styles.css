@@ -22,9 +22,9 @@ body{
 
 @media (min-width: 768px) {
     .navbar {
-      width: 80%; /* Cover the second and third fourths of the screen */
-      margin-left: 10%; /* Move navbar to the center */
-      margin-right: 10%; /* Move navbar to the center */
+      width: 90%; /* Cover the second and third fourths of the screen */
+      margin-left: 5%; /* Move navbar to the center */
+      margin-right: 5%; /* Move navbar to the center */
     }
   }
 
@@ -80,4 +80,12 @@ body{
     padding: 10px; /* Add white margin around the image */
     background-color:#e7e7e7;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); /* Add shadow to the margin */
+}
+
+.EKM_Font{
+ 
+  font-family: "Cormorant", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
